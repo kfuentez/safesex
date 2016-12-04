@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Safe Sex</title>
-    <link>http://kfuentez.github.io/safesex/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on Safe Sex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://kfuentez.github.io/safesex/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://kfuentez.github.io/safesex/confidence/</link>
+      <link>/confidence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kfuentez.github.io/safesex/confidence/</guid>
+      <guid>/confidence/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kfuentez.github.io/safesex/curriculum/</link>
+      <link>/curriculum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kfuentez.github.io/safesex/curriculum/</guid>
+      <guid>/curriculum/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://kfuentez.github.io/safesex/safety/</link>
+      <link>/safety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://kfuentez.github.io/safesex/safety/</guid>
+      <guid>/safety/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;html lang=&#34;{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}&#34;&gt;
     {{ partial &#34;head.html&#34; . }}
