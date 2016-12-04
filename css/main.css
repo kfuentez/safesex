@@ -336,29 +336,17 @@ section h2.section-heading {
     }
 }
 
-/*
-.about-body {
-  position: relative;
-}
-.about-body::before {
-  content: " ";
-  display: inline-block;
-  height: 100%;
-  width: 1%;
-  vertical-align: middle;
-}
-.about-body p {
-  display: inline-block;
-  vertical-align: middle;
-  margin: 0;
-  padding: 20px;
-  background: black;
-}
-*/
-
 .col-lg-4 {
     padding: 0;
 }
+
+@media(max-width:730px) {
+    .col-lg-4 {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
+
 
 body {
     webkit-tap-highlight-color: #fed136;
